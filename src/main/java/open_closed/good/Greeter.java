@@ -26,6 +26,7 @@ public class Greeter {
 
     private ContactPerson person;
 
+    // Inject the greet strategy
     public Greeter(ContactPerson person) {
         this.person = person;
     }
