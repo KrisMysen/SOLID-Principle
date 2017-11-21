@@ -1,0 +1,5 @@
+Bouvet ASA har fått litt tid på seg til å tenke gjennom hvordan de egentlig ville ha løsningen. 
+Det har kommet med følgende endringer:
+* Database-løsningen skal nå være bygget på JSON. Dvs at alle deltagere skal serialiseres som JSON objekter.
+* Rapporten skal nå printes som HTML i stedet for ren tekst slik at de manuelt kan kopiere 
+resultatet inn i en html side.

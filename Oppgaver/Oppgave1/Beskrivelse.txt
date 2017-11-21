@@ -1,0 +1,9 @@
+﻿Oppgave 1
+Bouvet ASA trenger en ny plattform for å registrere deltagere til eventer. De stiller følgende krav til løsningen: 
+* Databaseløsningen skal basere seg på csv-filer. Det er vedlagt et eksempel for strukturen.
+* Det skal være mulig å printe en rapport som ren tekst til konsoll med alle deltakerne sortert på navn.
+* Det skal utvikles et eget sorteringsbibliotek som skal brukes til å sortere deltagerne på navn. Denne modulen skal
+kunne brukes av mange prosjekter i fremtiden.
+* Det skal være mulig å legge til en bruker.
+* Det skal være mulig å slette en bruker.
+* Alle “actions” skal være gjennom kommandolinjen.
